@@ -20,7 +20,7 @@ Khet Sarathi is an intelligent WhatsApp-based farming assistant that helps India
 
 ## Demo Video
   
-[![Watch the video]()](https://youtu.be/ymTH8WDIFfA)
+[![Watch the video](https://img.youtube.com/vi/ymTH8WDIFfA/maxresdefault.jpg)](https://youtu.be/ymTH8WDIFfA)
 
 
 ## Technology Stack
